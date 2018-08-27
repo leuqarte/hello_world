@@ -1,6 +1,8 @@
 # hello_world
 because all worlds deserve a friendly greeting
 
+*This exists solely for me to learn and explore GitHub and related stuffs*
+
 ## Testing things below
 
 - Markdown test 1
