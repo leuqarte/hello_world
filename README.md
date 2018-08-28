@@ -18,3 +18,32 @@ because all worlds deserve a friendly greeting
 [Google](https://google.com)
 
 ## Header 2
+
+More formatting
+
+### subheading under 2
+
+```
+Some code
+and things
+```
+
+```html
+<!-- comments -->
+<div id="stuff">heeey</div>
+```
+
+```c++
+//comments
+#include <iostraeam>
+
+using namespace std;
+
+int main() {
+  cout << "Hello." << endl;
+  return;
+}
+```
+
+> "a quote block."
+>  -Abraham Lincoln
