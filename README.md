@@ -41,7 +41,7 @@ using namespace std;
 
 int main() {
   cout << "Hello." << endl;
-  return;
+  return 0;
 }
 ```
 
